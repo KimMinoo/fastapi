@@ -1,0 +1,75 @@
+{
+  "entities": [ {
+    "value": "해쉬브라운",
+    "synonyms": [ "해쉬브라운" ],
+    "languageCode": "ko"
+  }, {
+    "value": "너겟킹",
+    "synonyms": [ "너겟킹" ],
+    "languageCode": "ko"
+  }, {
+    "value": "치즈스틱",
+    "synonyms": [ "치즈스틱" ],
+    "languageCode": "ko"
+  }, {
+    "value": "어니언링",
+    "synonyms": [ "어니언링" ],
+    "languageCode": "ko"
+  }, {
+    "value": "바삭킹",
+    "synonyms": [ "바삭킹" ],
+    "languageCode": "ko"
+  }, {
+    "value": "쉐이킹프라이",
+    "synonyms": [ "쉐이킹프라이" ],
+    "languageCode": "ko"
+  }, {
+    "value": "크리미모짜볼",
+    "synonyms": [ "크리미모짜볼" ],
+    "languageCode": "ko"
+  }, {
+    "value": "코코넛슈림프",
+    "synonyms": [ "코코넛슈림프" ],
+    "languageCode": "ko"
+  }, {
+    "value": "치즈프라이",
+    "synonyms": [ "치즈프라이" ],
+    "languageCode": "ko"
+  }, {
+    "value": "프렌치프라이",
+    "synonyms": [ "프렌치프라이" ],
+    "languageCode": "ko"
+  }, {
+    "value": "코울슬로",
+    "synonyms": [ "코울슬로" ],
+    "languageCode": "ko"
+  }, {
+    "value": "콘샐러드",
+    "synonyms": [ "콘샐러드" ],
+    "languageCode": "ko"
+  }, {
+    "value": "구운갈릭시즈닝",
+    "synonyms": [ "구운갈릭시즈닝" ],
+    "languageCode": "ko"
+  }, {
+    "value": "너겟킹8조각",
+    "synonyms": [ "너겟킹8조각" ],
+    "languageCode": "ko"
+  }, {
+    "value": "스윗어니언시즈닝",
+    "synonyms": [ "스윗어니언시즈닝" ],
+    "languageCode": "ko"
+  }, {
+    "value": "매콤치즈시즈닝",
+    "synonyms": [ "매콤치즈시즈닝" ],
+    "languageCode": "ko"
+  }, {
+    "value": "디아블로소스",
+    "synonyms": [ "디아블로소스" ],
+    "languageCode": "ko"
+  }, {
+    "value": "스위트칠리소스",
+    "synonyms": [ "스위트칠리소스" ],
+    "languageCode": "ko"
+  } ]
+}

@@ -1,0 +1,59 @@
+{
+  "entities": [ {
+    "value": "망고선데",
+    "synonyms": [ "망고선데" ],
+    "languageCode": "ko"
+  }, {
+    "value": "컵망고아이스크림",
+    "synonyms": [ "컵망고아이스크림" ],
+    "languageCode": "ko"
+  }, {
+    "value": "Dole후룻컵",
+    "synonyms": [ "Dole후룻컵" ],
+    "languageCode": "ko"
+  }, {
+    "value": "아메리카노",
+    "synonyms": [ "아메리카노" ],
+    "languageCode": "ko"
+  }, {
+    "value": "핫초코",
+    "synonyms": [ "핫초코" ],
+    "languageCode": "ko"
+  }, {
+    "value": "아이스초코",
+    "synonyms": [ "아이스초코" ],
+    "languageCode": "ko"
+  }, {
+    "value": "코카콜라",
+    "synonyms": [ "코카콜라" ],
+    "languageCode": "ko"
+  }, {
+    "value": "코카콜라제로",
+    "synonyms": [ "코카콜라제로" ],
+    "languageCode": "ko"
+  }, {
+    "value": "스프라이트",
+    "synonyms": [ "스프라이트" ],
+    "languageCode": "ko"
+  }, {
+    "value": "스프라이트제로",
+    "synonyms": [ "스프라이트제로" ],
+    "languageCode": "ko"
+  }, {
+    "value": "미닛메이드오렌지",
+    "synonyms": [ "미닛메이드오렌지" ],
+    "languageCode": "ko"
+  }, {
+    "value": "순수(미네랄워터)",
+    "synonyms": [ "순수(미네랄워터)" ],
+    "languageCode": "ko"
+  }, {
+    "value": "레드애플맛제로",
+    "synonyms": [ "레드애플맛제로" ],
+    "languageCode": "ko"
+  }, {
+    "value": "레몬라임맛제로",
+    "synonyms": [ "레몬라임맛제로" ],
+    "languageCode": "ko"
+  } ]
+}

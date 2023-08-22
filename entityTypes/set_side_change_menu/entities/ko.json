@@ -1,0 +1,51 @@
+{
+  "entities": [ {
+    "value": "프렌치프라이",
+    "synonyms": [ "프렌치프라이" ],
+    "languageCode": "ko"
+  }, {
+    "value": "치즈스틱",
+    "synonyms": [ "치즈스틱" ],
+    "languageCode": "ko"
+  }, {
+    "value": "프렌치프라이엘",
+    "synonyms": [ "프렌치프라이엘" ],
+    "languageCode": "ko"
+  }, {
+    "value": "치즈프라이",
+    "synonyms": [ "치즈프라이" ],
+    "languageCode": "ko"
+  }, {
+    "value": "너겟킹",
+    "synonyms": [ "너겟킹" ],
+    "languageCode": "ko"
+  }, {
+    "value": "어니언링",
+    "synonyms": [ "어니언링" ],
+    "languageCode": "ko"
+  }, {
+    "value": "쉐이킹프라이구운갈릭",
+    "synonyms": [ "쉐이킹프라이구운갈릭" ],
+    "languageCode": "ko"
+  }, {
+    "value": "쉐이킹프라이매콤치즈",
+    "synonyms": [ "쉐이킹프라이매콤치즈" ],
+    "languageCode": "ko"
+  }, {
+    "value": "쉐이킹프라이스윗어니언",
+    "synonyms": [ "쉐이킹프라이스윗어니언" ],
+    "languageCode": "ko"
+  }, {
+    "value": "코울슬로",
+    "synonyms": [ "코울슬로" ],
+    "languageCode": "ko"
+  }, {
+    "value": "콘샐러드",
+    "synonyms": [ "콘샐러드" ],
+    "languageCode": "ko"
+  }, {
+    "value": "해쉬브라운",
+    "synonyms": [ "해쉬브라운" ],
+    "languageCode": "ko"
+  } ]
+}
